@@ -1,5 +1,16 @@
-<h2 align="left">Hi 👋! My TareqAlnaqeeb is ... and I'm a  Backend Developer .Net Core</h2>
+👋
+Hi, I'm Tareq Alnaqeeb ! 
+Full Stack Developer | .NET Specialist
 
+Welcome to my GitHub! I’m a passionate developer focused on building scalable, maintainable desktop and web applications using .NET technologies. I enjoy solving complex problems, optimizing systems, and continuously learning.
+
+🛠️ Tech Stack
+Languages: C#, C++
+Frameworks: .NET (Core & Framework), ASP.NET Core (Web API)
+Frontend: HTML, CSS, JavaScript, Bootstrap, 
+Database: SQL Server, T-SQL, ADO.NET, EF Core
+Design: SOLID Principles, Design Patterns (Repository, Unit of Work, DI)
+Tools: Git, GitHub, Postman, Swagger
 ###
 
 <div align="center">
