@@ -38,7 +38,5 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable, m
 
 ###
 
-<div align="left">
-</div>
 
 ###
