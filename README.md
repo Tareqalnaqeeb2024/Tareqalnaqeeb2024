@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Tareq Alnaqeeb!
-**Full Stack Developer | .NET Specialist**  
-
-Welcome to my GitHub! I'm a passionate developer focused on building scalable, maintainable desktop and web applications using .NET technologies. I enjoy solving complex problems, optimizing systems, and continuously learning.
-
----
 
 <div align="center">
 
@@ -42,6 +37,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable, m
 
 💬 A backend developer passionate about building clean, scalable, and high-performance systems using .NET technologies.  
 I focus on writing maintainable, testable, and efficient code that brings real business value.  
+
 
 🚀 Clean Architecture • 🌍 Reliability • 🎯 Performance
 
