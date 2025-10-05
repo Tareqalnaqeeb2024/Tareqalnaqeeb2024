@@ -81,4 +81,4 @@ I focus on writing maintainable, testable, and efficient code that brings real b
 
 📂 **GitHub Portfolio:** [github.com/Tareqalnaqeeb2024](https://github.com/Tareqalnaqeeb2024)  
 📧 **Email:** [tareqalnaqeeb2023@gmail.com](mailto:tareqalnaqeeb2023@gmail.com)   
-📱 **Telegram:** [@AbuAhmedAlnaqeeb](https://t.me/tareqalnaqeeb)
+📱 **Telegram:** [@AbuAhmedAlnaqeeb](https://t.me/@AbuAhmedAlnaqeeb)
